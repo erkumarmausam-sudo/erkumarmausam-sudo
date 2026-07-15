@@ -4,8 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Java+%7C+C%2B%2B+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-<img align="right" alt="Developer" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-# 💫 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"># 💫 About Me
 
 🎓 B.Tech Computer Science Engineering Student
 
