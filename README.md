@@ -7,7 +7,6 @@ B.Tech CSE Student | Aspiring Software Engineer | Passionate Learner 🚀
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 💫 About Me
-
 🎓 B.Tech Computer Science Engineering Student
 
 💻 Passionate about Software Development and Problem Solving
