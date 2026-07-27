@@ -73,8 +73,8 @@
 
 ---
 
-<center>
-If you find my GitHub profile useful please consider giving a star to my projects ❤
-<br>
-⭐ Built with ❤️ by **Mausam Kumar** 
-</center>
+<div align="center">
+  If you find my GitHub profile useful please consider giving a star to my projects ❤
+  <br>
+  ⭐ Built with ❤️ by <b>Mausam Kumar</b> 
+</div>
