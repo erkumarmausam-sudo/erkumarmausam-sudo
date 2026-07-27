@@ -2,18 +2,20 @@
 <h3 align="center">B.Tech CSE Student | Java, C++, Python | DSA, Web Development, AI/ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=780&lines=Computer+Science+Engineering+Student;Learning+DSA+and+Core+CS;Java+%7C+C%2B%2B+%7C+Python+Developer;React+%7C+Backend+%7C+AI%2FML;Building+Projects+and+Improving+Every+Day" alt="Typing Animation for Mausam Kumar"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=780&lines=Computer+Science+Engineering+Student;Learning+DSA+and+Core+CS;Java+%7C+C%2B%2B+%7C+Python+Developer;React+%7C+Backend+%7C+AI%2FML;Building+Projects+and+Improving+Every+Day" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/erkumarmausam-sudo">
-    <img src="https://img.shields.io/badge/GitHub-erkumarmausam--sudo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-erkumarmausam--sudo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://leetcode.com/u/25_CSE23_0033/">
-    <img src="https://img.shields.io/badge/LeetCode-25__CSE23__0033-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-25__CSE23__0033-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
   <a href="https://www.codechef.com/users/mausam07">
-    <img src="https://img.shields.io/badge/CodeChef-mausam07-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-mausam07-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
@@ -21,13 +23,19 @@
 
 # 👨‍💻 About Me
 
-I am a **B.Tech Computer Science Engineering** student passionate about building real-world projects and continuously improving my programming skills.
+I am a **B.Tech Computer Science Engineering student** who enjoys turning ideas into real-world projects.
 
-- 🌱 Learning Data Structures & Algorithms
-- 💻 Exploring Java, C++, Python, React and Backend Development
-- 🤖 Interested in AI/ML and Cloud Computing
-- 🚀 Building projects to strengthen practical skills
-- 🎯 Preparing for Product-Based Company Interviews
+I am currently building strong fundamentals in:
+
+- 📚 Data Structures & Algorithms
+- ☕ Java
+- 💻 C++
+- 🐍 Python
+- 🌐 Web Development
+- ⚙️ Backend Development
+- 🤖 AI / Machine Learning
+
+My goal is to become a Software Engineer at a product-based company through consistent learning and project building.
 
 ---
 
@@ -37,53 +45,59 @@ I am a **B.Tech Computer Science Engineering** student passionate about building
 |------|---------------|
 | Problem Solving | Arrays, Strings, Trees, Graphs |
 | Programming | Java, C++, C, Python |
-| Web Development | HTML, CSS, React, Node.js, Express |
-| Backend | REST APIs, Authentication |
+| Frontend | HTML, CSS, React |
+| Backend | Node.js, Express, REST APIs |
 | AI/ML | TensorFlow, PyTorch |
-| Career | DSA + Projects + Interview Preparation |
+| Career | DSA, Projects, Interview Prep |
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
 </p>
 
-### Database & Tools
+### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,aws"/>
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 ---
 
-# 📚 Learning Roadmap
+# 📖 Current Learning Roadmap
 
 ```text
 DSA
- ├── Java
- ├── C++
- ├── Web Development
- ├── Backend
- ├── AI / ML
- ├── Cloud
- ├── System Design
- └── Open Source
+   ↓
+Java & C++
+   ↓
+React
+   ↓
+Backend Development
+   ↓
+AI / ML
+   ↓
+Cloud Computing
+   ↓
+System Design
+   ↓
+Open Source
 ```
 
 ---
@@ -102,9 +116,9 @@ DSA
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=erkumarmausam-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=erkumarmausam-sudo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkumarmausam-sudo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkumarmausam-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,9 +127,7 @@ DSA
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=erkumarmausam-sudo&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -123,9 +135,7 @@ DSA
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=erkumarmausam-sudo&theme=tokyo-night&hide_border=true&area=true"/>
-
 </p>
 
 ---
@@ -133,9 +143,7 @@ DSA
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=erkumarmausam-sudo&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
 </p>
 
 ---
@@ -144,38 +152,38 @@ DSA
 
 - ✅ Solve 500+ LeetCode Problems
 - ✅ Build 20+ Projects
-- ✅ Master DSA
 - ✅ Learn Spring Boot
-- ✅ Open Source Contributions
-- ✅ Crack Product-Based Company Interviews
+- ✅ Master DSA
+- ✅ Contribute to Open Source
+- ✅ Prepare for Product-Based Companies
 
 ---
 
-# 💼 Project Focus
+# 🚀 Project Focus
 
-| Area | Projects |
-|------|----------|
-| Java | DSA Tracker, Spring Boot APIs |
-| Python | Automation, AI/ML |
-| React | Dashboards, Portfolio |
-| Backend | REST APIs, Authentication |
-| Cloud | AWS & Deployment |
+| Domain | Projects |
+|---------|----------|
+| Java | Console Apps, Spring Boot |
+| Python | Automation, ML Projects |
+| Web | React Projects |
+| Backend | REST APIs |
+| Cloud | Deployment |
 
 ---
 
 # ⭐ Featured Areas
 
 ```text
-Java | C++ | Python | DSA | React | Backend | AI/ML | Cloud
+Java | C++ | Python | React | AI/ML | DSA | Cloud | Backend
 ```
 
 ---
 
 <p align="center">
 
-### Thanks for visiting my profile ❤️
+### Thanks for visiting my profile! ⭐
 
-⭐ Don't forget to star my repositories if you find them useful.
+If you like my work, don't forget to **Star** my repositories.
 
 </p>
 
