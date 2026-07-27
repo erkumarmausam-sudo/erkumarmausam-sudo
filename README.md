@@ -1,18 +1,33 @@
-
-<h1><b>👋 Hi, I'm Mausam Kumar </b></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%91%8B+Hi%2C+I%27m+Mausam+Kumar" alt="Hi, I'm Mausam Kumar" />
+</h1>
 
 <h3 align="center">🎓 B.Tech CSE Student | ABES Engineering College</h3>
-<h4 align="center">💻 Java • C++ • Python • DSA • Web Development • AI/ML</h4>
+<h4 align="center">💻 Python • Data Visualization • AI/ML • Java • C++ • DSA • Web Development</h4>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;ABES+Engineering+College;Java+%7C+C%2B%2B+%7C+Python;DSA+Learner;React+Developer;Backend+Learner;AI%2FML+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;ABES+Engineering+College;Python+%7C+Data+Visualization+%7C+AI%2FML;Java+%7C+C%2B%2B+%7C+DSA;React+Developer;Backend+Learner;Always+Learning+New+Things" />
 </p>
 
 ## 🙋 About Me
+
+<img align="right" alt="Dark Crazy Coder" width="380" src="https://images.pexels.com/photos/5926386/pexels-photo-5926386.jpeg?cs=srgb&dl=pexels-sora-shimazaki-5926386.jpg&fm=jpg" />
+
 - 🎓 B.Tech CSE Student at **ABES Engineering College**
 - 💻 Learning Java, C++, Python, DSA, React, Backend & AI/ML
+- 📊 Exploring **Data Visualization using Python** with real-world datasets
+- 🧠 Interested in AI/ML, data storytelling, dashboards and intelligent applications
 - 🚀 Building projects and improving problem solving daily
-- 🎯 Goal: Become a Software Engineer in a product-based company
+- 🎯 Goal: Become a skilled Software Engineer with strong Data Visualization and AI skills
+
+## 💼 Professional Details
+- 👨‍💻 Aspiring Software Engineer focused on **Data Visualization, AI/ML and full-stack development**
+- 🐍 Working with Python libraries like **NumPy, Pandas, Matplotlib, Seaborn and Plotly**
+- 📈 Passionate about converting raw data into clear insights and interactive visuals
+- 🛠️ Building hands-on projects using Python, React, Node.js and backend technologies
+- 🤝 Open to internships, collaborative projects and open-source contributions
+
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 ### 💻 Languages
@@ -26,6 +41,16 @@
 
 ### 🤖 AI/ML
 <p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
+
+### 📊 Data Visualization
+<p><img src="https://skillicons.dev/icons?i=python"/></p>
+
+- 📌 NumPy
+- 📌 Pandas
+- 📌 Matplotlib
+- 📌 Seaborn
+- 📌 Plotly
+- 📌 Power BI Basics
 
 ## 🌐 Coding Profiles
 - GitHub: https://github.com/erkumarmausam-sudo
@@ -62,13 +87,14 @@
   </picture>
 </p>
 
-## 🎯 Goals
-- ✅ 500+ LeetCode Problems
-- ✅ 20+ Projects
-- ✅ Spring Boot
-- ✅ Open Source
-- ✅ Cloud
-- ✅ System Design
+## 🎯 Current Goals
+- 📊 Master Python Data Visualization using Matplotlib, Seaborn and Plotly
+- 🐍 Strengthen Python, NumPy, Pandas and Exploratory Data Analysis skills
+- 🧠 Build AI/ML projects using real-world datasets
+- 📈 Create interactive dashboards and visual data stories
+- 🤖 Learn how to combine Data Visualization with Machine Learning models
+- 🚀 Build portfolio projects for internships and product-based company opportunities
+- 🤝 Contribute to open-source projects related to Python, Data and AI
 
 ---
 
