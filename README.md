@@ -62,16 +62,6 @@
       src="https://raw.githubusercontent.com/erkumarmausam-sudo/erkumarmausam-sudo/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-<!--
-<p align="center">
-<img src="https://github.com/erkumarmausam-sudo/erkumarmausam-sudo/blob/output/github-contribution-grid-snake.svg"/>
-</p>
--->
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=erkumarmausam-sudo&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ## 🎯 Goals
 - ✅ 500+ LeetCode Problems
