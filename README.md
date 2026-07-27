@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Mausam Kumar
+<h1><b>👋 Hi, I'm Mausam Kumar </b></h1>
 
 <h3 align="center">🎓 B.Tech CSE Student | ABES Engineering College</h3>
 <h4 align="center">💻 Java • C++ • Python • DSA • Web Development • AI/ML</h4>
