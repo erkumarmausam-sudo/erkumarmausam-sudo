@@ -72,6 +72,9 @@
 - ✅ System Design
 
 ---
-⭐ Built with ❤️ by **Mausam Kumar** 
-<br>
+
+<center>
 If you find my GitHub profile useful please consider giving a star to my projects ❤
+<br>
+⭐ Built with ❤️ by **Mausam Kumar** 
+</center>
