@@ -60,6 +60,10 @@
 
 ## 📊 GitHub Stats
 > These services occasionally go offline.
+> 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=erkumarmausam-sudo&show_icons=true&theme=github_dark&hide_rank=false" alt="Mausam Kumar's GitHub Stats" />
+</p>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=erkumarmausam-sudo&layout=compact&theme=tokyonight&hide_border=true" />
