@@ -12,7 +12,7 @@
 ## 🙋 About Me
 
 <img align="right" alt="Dark Crazy Coder" width="380" src="https://i.pinimg.com/474x/5b/a6/b9/5ba6b957b807b6e57b3d307cafb964f7.jpg" width="280" alt="Coding Student" />
-" />
+
 
 - 🎓 B.Tech CSE Student at **ABES Engineering College**
 - 💻 Learning Java, C++, Python, DSA, React, Backend & AI/ML
