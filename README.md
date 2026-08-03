@@ -44,6 +44,7 @@
 <p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
 
 ### 📊 Data Visualization
+
 <p><img src="https://skillicons.dev/icons?i=python"/></p>
 
 - 📌 NumPy
