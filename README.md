@@ -41,6 +41,7 @@
 <p><img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,aws"/></p>
 
 ### 🤖 AI/ML
+
 <p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
 
 ### 📊 Data Visualization
