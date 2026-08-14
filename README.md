@@ -9,14 +9,16 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;ABES+Engineering+College;Python+%7C+Data+Visualization+%7C+AI%2FML;Java+%7C+C%2B%2B+%7C+DSA;React+Developer;Backend+Learner;Always+Learning+New+Things" />
 
-  <div align="center">
+ <div align="center">
   <br>
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
-  <br><br>
-  <b>— Martin Fowler</b>
+  <h3>
+    <code>🤖 "Any fool can write code that a computer can understand."</code>
+    <br><br>
+    <code>🧠 "Good programmers write code that humans can understand."</code>
+  </h3>
+  <i>✍️ — Martin Fowler</i>
   <br>
 </div>
-
 
 </p>
 ## 🙋 About Me
