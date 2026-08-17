@@ -43,7 +43,7 @@
 - 🤝 Open to internships, collaborative projects and open-source contributions
 
 <br clear="right"/>
-
+ 
 ## 🛠️ Tech Stack
 ### 💻 Languages
 <p><img src="https://skillicons.dev/icons?i=java,cpp,c,python,js"/></p>
