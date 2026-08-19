@@ -5,7 +5,7 @@
 
 <h3 align="center">🎓 B.Tech CSE Student | ABES Engineering College</h3>
 <h4 align="center">💻 Python • Data Visualization • AI/ML • Java • C++ • DSA • Web Development</h4>
-
+ 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;ABES+Engineering+College;Python+%7C+Data+Visualization+%7C+AI%2FML;Java+%7C+C%2B%2B+%7C+DSA;React+Developer;Backend+Learner;Always+Learning+New+Things" />
   
