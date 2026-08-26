@@ -11,7 +11,7 @@
 
 <div align="center">
   <br>
-  <blockquote>
+  <blockquote>   
     <p>
       💻 <i>"Any fool can write code that a computer can understand.</i>
       <br>
