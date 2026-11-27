@@ -1,105 +1,58 @@
-<h1 align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=%F0%9F%91%8B+Hi%2C+I%27m+Mausam+Kumar" alt="Hi, I'm Mausam Kumar" />
-</h1>
-        
-<h3 align="center">🎓 B.Tech CSE Student | ABES Engineering College</h3>
-<h4 align="center">💻 Python • Data Visualization • AI/ML • Java • C++ • DSA • Web Development</h4>
- 
-<p align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;ABES+Engineering+College;Python+%7C+Data+Visualization+%7C+AI%2FML;Java+%7C+C%2B%2B+%7C+DSA;React+Developer;Backend+Learner;Always+Learning+New+Things" />
-
+<!-- Header -->
 <div align="center">
-  <br>
-  <blockquote>   
-    <p>
-      💻 <i>"Any fool can write code that a computer can understand.</i>
-      <br>
-      ✨ <i>Good programmers write code that humans can understand."</i>
-    </p>
-  </blockquote>
-  
-  <b>📜 — Martin Fowler</b>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=55&lines=Mausam+Kumar;AI+%26+ML+Developer+%7C+Software+Engineer" alt="Mausam Kumar" />
+  <br />
+  <sub><b>B.Tech CSE @ ABES Engineering College</b> &nbsp;&bull;&nbsp; AI / ML &bull; Data Science &bull; Full-Stack Systems</sub>
 </div>
 
-</p>
+<br />
 
-## 🙋 About Me
-      
-<img align="right" alt="Dark Crazy Coder" width="380" src="https://i.pinimg.com/474x/5b/a6/b9/5ba6b957b807b6e57b3d307cafb964f7.jpg" width="280" alt="Coding Student" />
+<!-- Tech Stack Matrix -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <sub><b>AI / ML &amp; DATA</b></sub><br /><br />
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI and ML Stack" /><br />
+        <sub><code>NumPy</code> &bull; <code>Pandas</code> &bull; <code>Plotly</code> &bull; <code>Seaborn</code> &bull; <code>Power BI</code></sub>
+      </td>
+      <td align="center" width="33%">
+        <sub><b>CORE &amp; FULL-STACK</b></sub><br /><br />
+        <img src="https://skillicons.dev/icons?i=java,cpp,c,js,react,nodejs,express&theme=dark" alt="Core and Web Stack" /><br />
+        <sub><code>DSA</code> &bull; <code>REST APIs</code> &bull; <code>HTML5 / CSS3</code></sub>
+      </td>
+      <td align="center" width="33%">
+        <sub><b>DATA STORES &amp; INFRA</b></sub><br /><br />
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,linux,git,github,vscode&theme=dark" alt="Databases and Tools" /><br />
+        <sub><code>Git Actions</code> &bull; <code>CLI</code> &bull; <code>Cloud Basics</code></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br />
 
-- 🎓 B.Tech CSE Student at **  ABES Engineering College  **
-- 💻 Learning Java, C++, Python, DSA, React, Backend & AI/ML
-- 📊 Exploring **Data Visualization using Python** with real-world datasets
-- 🧠 Interested in AI/ML, data storytelling, dashboards and intelligent applications
-- 🚀 Building projects and improving problem solving daily
-- 🎯 Goal: Become a skilled Software Engineer with strong Data Visualization and AI skills
+<!-- Automated Lowlighter Metrics Dashboard -->
+<div align="center">
+  <img src="./metrics/overview.svg" alt="GitHub Overview, Coding Habits & Recent Activity" width="100%" />
+</div>
 
-## 💼 Professional Details
-- 👨‍💻 Aspiring Software Engineer focused on **Data Visualization, AI/ML and full-stack development**
-- 🐍 Working with Python libraries like **NumPy, Pandas, Matplotlib, Seaborn and Plotly**
-- 📈 Passionate about converting raw data into clear insights and interactive visuals
-- 🛠️ Building hands-on projects using Python, React, Node.js and backend technologies
-- 🤝 Open to internships, collaborative projects and open-source contributions
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="./metrics/languages.svg" alt="Languages & Starred Topics" width="100%" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="./metrics/calendar.svg" alt="Isometric Contribution Calendar & Achievements" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<br clear="right"/>
- 
-## 🛠️ Tech Stack
-### 💻 Languages
-<p><img src="https://skillicons.dev/icons?i=java,cpp,c,python,js"/></p>
+<br />
 
-### 🌐 Web
-<p><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/></p>
-
-### 🗄️ Database & Tools
-<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,aws"/></p>
-
-### 🤖 AI/ML
-
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
-
-### 📊 Data Visualization
-
-<p><img src="https://skillicons.dev/icons?i=python"/></p>
-
-- 📌 NumPy
-- 📌 Pandas
-- 📌 Matplotlib
-- 📌 Seaborn
-- 📌 Plotly
-- 📌 Power BI Basics
- 
-## 🌐 Coding Profiles
-- GitHub: https://github.com/erkumarmausam-sudo
-- LeetCode: https://leetcode.com/u/25_CSE23_0033/
-- CodeChef: https://www.codechef.com/users/mausam07
-
-## 📊 GitHub Stats
-
-> These services occasionally go offline.
-> 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=erkumarmausam-sudo&show_icons=true&theme=github_dark&hide_rank=false" alt="Mausam Kumar's GitHub Stats" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=erkumarmausam-sudo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=erkumarmausam-sudo&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erkumarmausam-sudo&theme=tokyo-night&hide_border=true"/>
-</p>
-## 🐍 Contribution Snake
-
+<!-- Contribution Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -111,28 +64,24 @@
   </picture>
 </p>
 
+<br />
 
-
-## 🎯 Current Goals
-- 📊 Master Python Data Visualization using Matplotlib, Seaborn and Plotly
-- 🐍 Strengthen Python, NumPy, Pandas and Exploratory Data Analysis skills
-- 🧠 Build AI/ML projects using real-world datasets
-- 📈 Create interactive dashboards and visual data stories
-- 🤖 Learn how to combine Data Visualization with Machine Learning models
-- 🚀 Build portfolio projects for internships and product-based company opportunities
-- 🤝 Contribute to open-source projects related to Python, Data and AI
-
----
-
-## ✨ Keep Learning • Keep Coding • Keep Growing 
-
-> **"The more you code, the more you learn. Every problem solved today prepares you for tomorrow's challenges."** 💙
----
-
+<!-- Coding Profiles -->
 <div align="center">
-  If you find my GitHub profile useful please consider giving a star to my projects ❤
-  <br>
-  ⭐ Built with ❤️ by <b>Mausam Kumar</b> 
+  <a href="https://github.com/erkumarmausam-sudo">
+    <img src="https://img.shields.io/badge/GitHub-erkumarmausam--sudo-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/25_CSE23_0033/">
+    <img src="https://img.shields.io/badge/LeetCode-25__CSE23__0033-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/mausam07">
+    <img src="https://img.shields.io/badge/CodeChef-mausam07-0d1117?style=for-the-badge&logo=codechef&logoColor=00F7FF" alt="CodeChef" />
+  </a>
 </div>
 
+<br />
 
+<!-- Minimal Footer -->
+<div align="center">
+  <sub><code>erkumarmausam-sudo</code> &bull; Automated via GitHub Actions &amp; <code>lowlighter/metrics</code></sub>
+</div>
