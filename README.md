@@ -32,19 +32,26 @@
 
 <br />
 
-<!-- Automated Lowlighter Metrics Dashboard -->
+<!-- 3D Contribution Model (Self-Hosted via GitHub Actions) -->
 <div align="center">
-  <img src="./metrics/overview.svg" alt="GitHub Overview, Coding Habits & Recent Activity" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  </picture>
 </div>
 
+<br />
+
+<!-- Automated Lowlighter Metrics Dashboard -->
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <img src="./metrics/languages.svg" alt="Languages & Starred Topics" width="100%" />
+      <td width="55%" valign="top">
+        <img src="./metrics/overview.svg" alt="GitHub Overview, Coding Habits & Recent Activity" width="100%" />
       </td>
-      <td width="50%" valign="top">
-        <img src="./metrics/calendar.svg" alt="Isometric Contribution Calendar & Achievements" width="100%" />
+      <td width="45%" valign="top">
+        <img src="./metrics/languages.svg" alt="Languages & Starred Topics" width="100%" />
       </td>
     </tr>
   </table>
@@ -83,5 +90,5 @@
 
 <!-- Minimal Footer -->
 <div align="center">
-  <sub><code>erkumarmausam-sudo</code> &bull; Automated via GitHub Actions &amp; <code>lowlighter/metrics</code></sub>
+  <sub><code>erkumarmausam-sudo</code> &bull; Automated via GitHub Actions, <code>lowlighter/metrics</code> &amp; <code>github-profile-3d-contrib</code></sub>
 </div>
