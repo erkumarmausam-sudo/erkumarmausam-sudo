@@ -1,0 +1,95 @@
+name: AI Developer Dashboard Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Updates daily at midnight UTC
+  workflow_dispatch:    # Allows manual trigger from the Actions tab
+  push:
+    branches: ["main", "master"]
+
+jobs:
+  metrics-overview:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Overview, Habits & Activity SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: erkumarmausam-sudo
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          config_display: large
+          extras_css: |
+            svg { background: #0d1117; border-radius: 10px; }
+
+          # Coding Habits (hourly & weekly distribution)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # Recent Activity Feed
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_filter: push, pr, issue, star, release
+          plugin_activity_timestamps: yes
+
+  metrics-languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Languages & Topics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: erkumarmausam-sudo
+          base: ""
+          config_timezone: Asia/Kolkata
+          config_display: large
+          extras_css: |
+            svg { background: #0d1117; border-radius: 10px; }
+
+          # Deep Language Breakdown
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css
+          plugin_languages_recent_load: 300
+
+          # Starred & Used Topics
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+          plugin_topics_limit: 12
+
+  metrics-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Isometric Calendar & Achievements SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: erkumarmausam-sudo
+          base: ""
+          config_timezone: Asia/Kolkata
+          config_display: large
+          extras_css: |
+            svg { background: #0d1117; border-radius: 10px; }
+
+          # 3D Isometric Contribution Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # GitHub Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
